@@ -1,7 +1,7 @@
-let procurementTonnage = 950;
-let minRequirement = 1000;
+// let procurementTonnage = 950;
+// let minRequirement = 1000;
 
-console.log(procurementTonnage >= minRequirement);
+// console.log(procurementTonnage >= minRequirement);
 // ********************** 1
 // tonnage validation
 let procurementTonnage = 1000;
